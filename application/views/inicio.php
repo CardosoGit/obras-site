@@ -53,7 +53,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="header-top">
 							<div class="container">
 								<div class="head-logo">
-									<a href="index.html">Encontre Obras</a>
+									<a href="index.html"><img src="{base_url}/assets/images/logo 2.png"></a>
 								</div>
 								<div class="top-nav">
 									<section class="hero fa-navicon fa-2x nav_slide_button" id="hero">
