@@ -109,9 +109,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<h2>O App <span>EncontreObras</span> vai impulsionar as suas vendas.</h2>
 						<p>Deixe os seus vendedores fazerem o que mais sabem. E deixe o serviço custoso de encontrar novos prospects por nossa conta. O App lista todas as obras da sua região, com atualização diária e com detalhes.</p>
 						<div class="banner-buttons">
-							<div class="banner-button">
+							<!-- <div class="banner-button">
 								<a href="#"><img src="{base_url}/assets/images/1.png" alt="" /></a>
-							</div>
+							</div> -->
 							<div class="banner-button green-button">
 								<a href="#"><img src="{base_url}/assets/images/2.png" alt="" /></a>
 							</div>
